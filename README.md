@@ -12,7 +12,7 @@ by
 ## Download
 The latest release can be found on the
 [releases page](https://github.com/lightbulb-sun/nightmare-adrenaline/releases).
-Patch `track1.bin` with the `.xdelta` file to create the hack.
+Patch `track1.bin` with the `.xdelta3` file to create the hack.
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
